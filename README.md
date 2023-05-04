@@ -16,9 +16,13 @@ Como enviar sua pasta com arquivos direto do Visual Studio Code para um
 </p>
 
 <br>
-<h2>Onde clicar:</h2>
+
 <p align="center">
   <img alt="Projeto vscodeparagithub" src="/img/preview.png" width="100%">
+</p><br><br><br>
+<h2>Onde clicar:</h2>
+<p align="center">
+  <img alt="00 Selecionar Publish to GitHub" src="/img/00-clicarempublicar.png" width="100%">
 </p><br>
 <h2>Passo 01:</h2>
 <p align="center">
@@ -49,7 +53,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Fazer um tutorial de como criar um repositório do zero no GitHub através do Visual Studio Code.
 
-Orientações:
+<h3>Orientações:</h3>
 
       1. Ter uma conta no GitHub;
       2. Vincular sua conta do GitHub com o VSCode;
@@ -59,9 +63,10 @@ Orientações:
       6. Depois de criada a pasta no computador, abra ela no VSCode;
       7. Clica em Source Control;
       8. Clicar na segunda opção Publish to Github;
-      8. Escolher se o repositório será privado ou público;
-      9. Escolher os arquivos que serão enviados (ele já seleciona todos);
-      10. Pronto, já foi criado o repositório no GitHub direto pelo VSCode.
+      9. Escolher se o repositório será privado ou público;
+      10. Escolher os arquivos que serão enviados (ele já seleciona todos);
+      11. Enviando os arquivos para o GitHub;
+      12. Pronto, já foi criado o repositório no GitHub direto pelo VSCode.
 
 ## 🪪 Licença
 
