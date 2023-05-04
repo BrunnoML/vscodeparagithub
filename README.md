@@ -2,7 +2,7 @@
 
 <p align="center">
 Como enviar sua pasta com arquivos direto do Visual Studio Code para um
-      novo reposistório no GitHub.
+      novo repositório no GitHub.
 </p>
 
 <p align="center">
@@ -42,6 +42,7 @@ Como enviar sua pasta com arquivos direto do Visual Studio Code para um
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
+- Visual Studio Code
 - Git e Github
 
 ## 💻 Projeto
