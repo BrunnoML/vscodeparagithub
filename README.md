@@ -16,19 +16,23 @@ Como enviar sua pasta com arquivos direto do Visual Studio Code para um
 </p>
 
 <br>
-
+<h2>Onde clicar:</h2>
 <p align="center">
   <img alt="Projeto vscodeparagithub" src="/img/preview.png" width="100%">
 </p><br>
+<h2>Passo 01:</h2>
 <p align="center">
   <img alt="01 Privado ou público" src="/img/01-privadooupublico.png" width="100%">
 </p><br>
+<h2>Passo 02:</h2>
 <p align="center">
   <img alt="02 Escolher arquivos" src="/img/02-escolherarquivos.png" width="100%">
 </p><br>
+<h2>Passo 03:</h2>
 <p align="center">
   <img alt="03 Enviando arquivos" src="/img/03-enviandoarquivos.png" width="100%">
 </p><br>
+<h2>Passo 04:</h2>
 <p align="center">
   <img alt="04 Publicado com sucesso" src="/img/04-publicadocomsucesso.png" width="100%">
 </p><br>
@@ -37,7 +41,7 @@ Como enviar sua pasta com arquivos direto do Visual Studio Code para um
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
 - Git e Github
 
 ## 💻 Projeto
