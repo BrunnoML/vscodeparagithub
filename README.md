@@ -20,7 +20,11 @@ Como enviar sua pasta com arquivos direto do Visual Studio Code para um
 <p align="center">
   <img alt="Projeto vscodeparagithub" src="/img/preview.png" width="100%">
 </p><br><br><br>
-<h2>Onde clicar:</h2>
+<h2>Clicar em Source Control:</h2>
+<p align="center">
+  <img alt="00 Selecionar Publish to GitHub" src="/img/clicaemsourcecontrol.png" width="100%">
+</p><br>
+<h2>Clicar em Publish to GitHub:</h2>
 <p align="center">
   <img alt="00 Selecionar Publish to GitHub" src="/img/00-clicarempublicar.png" width="100%">
 </p><br>
